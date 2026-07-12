@@ -42,7 +42,6 @@
 <a href="login.php" class="btn btn-primary">
     Login
 </a>
-</button>
 
 </div>
 </div>
